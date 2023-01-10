@@ -1,0 +1,7 @@
+{
+    'MovingSpeed' : 12,
+    'MapWidth' : 20,
+    'MapHeight' : 20,
+    'LengthOfACell' : 30,
+    'TextColor' : (0,0,255)
+}
