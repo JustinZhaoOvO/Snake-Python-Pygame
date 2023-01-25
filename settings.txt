@@ -1,5 +1,5 @@
 {
-    'MovingSpeed' : 12,
+    'MovingSpeed' : 20,
     'MapWidth' : 20,
     'MapHeight' : 20,
     'LengthOfACell' : 30,
